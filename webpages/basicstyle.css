@@ -1,5 +1,43 @@
 
 body
 {
-	background: purple;
+	background-color: purple;
 }
+h1{
+	color: green;
+	background: skyblue;
+}
+
+h2{
+	background: pink;
+	border:  6px solid blue;
+	color: white;
+}
+
+address{
+	color: aqua;
+border: 6px solid aqua;
+background: pink;
+margin: 60PX 10PX 100PX 150PX ; /* MARGIN outside the borders top right bottom and left */
+}
+p{
+	border-color:  2px solid lightgreen;
+	background: gray;
+	font-size: 30;
+}
+blockquote
+{
+	background: brown;
+    color:pink;
+	font-weight: 30;
+ padding: 15px;/* inside will increase */
+ margin: 40px;  
+}
+ a{
+ 	color: yellow; /* target is used as blank to open the link in a new tab*/
+ }
+ /* absoult linking (http linking)and relative linking((html linking) is the two types of linking  */
+ img{
+ 	width: 300px;
+ 	height: 300px;
+ }

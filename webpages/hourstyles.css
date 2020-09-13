@@ -1,0 +1,16 @@
+img{
+	border: 9px solid red;
+}
+h3{
+	border: 4px solid blue;
+	column-rule-color: pink;
+}
+a:hover, a:active{
+	color: yellow;
+
+}
+
+a:visited{
+	background: pink;
+	color: red;
+}
