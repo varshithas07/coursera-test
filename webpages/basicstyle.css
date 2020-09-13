@@ -2,6 +2,7 @@
 body
 {
 	background-color: purple;
+	background-image: url('images\forest.jpg');
 }
 h1{
 	color: green;
@@ -42,10 +43,10 @@ blockquote
  	height: 300px;
  }
 
- a:hover , a:active{
+ /*a:hover , a:active{
  	color: red;
  }
 
  a:visited{
  	color: pink;
- }
+ }*/
