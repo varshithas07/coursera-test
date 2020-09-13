@@ -41,3 +41,11 @@ blockquote
  	width: 300px;
  	height: 300px;
  }
+
+ a:hover , a:active{
+ 	color: red;
+ }
+
+ a:visited{
+ 	color: pink;
+ }
