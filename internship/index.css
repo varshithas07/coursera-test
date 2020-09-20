@@ -1,0 +1,47 @@
+		body{
+			background-color: white;
+			font-family: sans-serif;
+          background: url("https://thumbs.dreamstime.com/z/different-fresh-foods-vegetables-herbs-spices-black-background-various-foods-bowls-perfect-cover-photos-various-156085537.jpg");
+		}
+		header{
+			width: 75%;
+			margin: auto;
+			overflow: hidden;
+			color: white;
+		}
+		nav{
+			float: right;
+		}
+		li{
+			padding: 1rem;
+			display: inline;
+			color: white;
+
+		}
+		a{
+			text-decoration: none;
+color: white;
+
+		}
+		li:hover{
+			background: goldenrod;
+			font-size: 20px;
+		}
+		h1{
+			color: goldenrod;
+			font-family: cursive;
+			text-align: center;
+}
+		h2{
+			color: #FF7700;
+			text-align: center;
+			font-size: 30px;
+			font-family:cursive;  	;
+		}
+		p{
+			color: #FF2839;
+			font-family:Apple Chancery, cursive;
+			text-align: center;
+			font-size: 25px;
+		}
+
